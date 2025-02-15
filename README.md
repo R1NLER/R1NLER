@@ -1,6 +1,10 @@
 <br clear="both">
 
-<h1 align="center">Hello World!!</h1>
+<h1 align="center"># 👨‍💻 Systems Administrator & Multi-language Developer</h1>
+
+###
+
+<p align="left">👋 Hi! I'm a systems administrator and programmer with experience in multiple programming languages. I'm passionate about automation, infrastructure optimization, and developing efficient and secure solutions.<br><br>💻 I work with servers, networks, databases, and software development, integrating technologies to enhance performance and security.<br><br>🚀 In this repository, you'll find projects, scripts, and tools that showcase my focus on efficiency, security, and scalability.<br><br>📫 Want to collaborate or have a question? Feel free to reach out!</p>
 
 ###
 
@@ -34,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
@@ -99,3 +101,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1NLER&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
